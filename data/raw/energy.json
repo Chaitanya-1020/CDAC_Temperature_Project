@@ -1,0 +1,826 @@
+{"timestamp":"2026-07-17 11:30:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784268007925163,
+		"socket_0":	{
+			"energy_cpu_joules":	125438.56787109375,
+			"energy_mem_joules":	26281.724182128906
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	9974.383544921875,
+			"energy_mem_joules":	5921.38214111328
+		},
+		"energy_node_joules":	167616.05773925781
+	}
+}}
+{"timestamp":"2026-07-17 11:35:01", "data":{
+	"gpu45":	{
+		"timestamp":	1.78426830794579e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	141511.5732421875,
+			"energy_mem_joules":	39073.610717773438
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	25490.754272460938,
+			"energy_mem_joules":	16939.416687011719
+		},
+		"energy_node_joules":	223015.35491943359
+	}
+}}
+{"timestamp":"2026-07-17 11:40:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784268607975101,
+		"socket_0":	{
+			"energy_cpu_joules":	157579.319519043,
+			"energy_mem_joules":	51880.632202148438
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	41003.0161743164,
+			"energy_mem_joules":	27945.552612304688
+		},
+		"energy_node_joules":	278408.5205078125
+	}
+}}
+{"timestamp":"2026-07-17 11:45:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784268907968847,
+		"socket_0":	{
+			"energy_cpu_joules":	173600.548034668,
+			"energy_mem_joules":	64691.815612792969
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	56492.8637084961,
+			"energy_mem_joules":	38936.4384765625
+		},
+		"energy_node_joules":	333721.66583251953
+	}
+}}
+{"timestamp":"2026-07-17 11:50:01", "data":{
+	"gpu45":	{
+		"timestamp":	1.78426920799545e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	189623.28765869141,
+			"energy_mem_joules":	77572.1176147461
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	72146.9581298828,
+			"energy_mem_joules":	49933.48291015625
+		},
+		"energy_node_joules":	389275.84631347656
+	}
+}}
+{"timestamp":"2026-07-17 11:55:01", "data":{
+	"gpu45":	{
+		"timestamp":	1.78426950804799e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	205633.66302490234,
+			"energy_mem_joules":	90559.397399902344
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	87644.7540283203,
+			"energy_mem_joules":	60787.074340820312
+		},
+		"energy_node_joules":	444624.88879394531
+	}
+}}
+{"timestamp":"2026-07-17 12:00:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784269808086378,
+		"socket_0":	{
+			"energy_cpu_joules":	221654.10601806641,
+			"energy_mem_joules":	103498.77154541016
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	103236.87158203125,
+			"energy_mem_joules":	71660.5078125
+		},
+		"energy_node_joules":	500050.25695800781
+	}
+}}
+{"timestamp":"2026-07-17 12:05:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784270108176782,
+		"socket_0":	{
+			"energy_cpu_joules":	237811.12213134766,
+			"energy_mem_joules":	116411.10400390625
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	118707.72705078125,
+			"energy_mem_joules":	82502.689208984375
+		},
+		"energy_node_joules":	555432.64239501953
+	}
+}}
+{"timestamp":"2026-07-17 12:10:01", "data":{
+	"gpu45":	{
+		"timestamp":	1.7842704082194e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	253853.21087646484,
+			"energy_mem_joules":	129268.45861816406
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	134292.67919921875,
+			"energy_mem_joules":	93416.217834472656
+		},
+		"energy_node_joules":	610830.56652832031
+	}
+}}
+{"timestamp":"2026-07-17 12:15:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784270708241009,
+		"socket_0":	{
+			"energy_cpu_joules":	7751.9044189453125,
+			"energy_mem_joules":	142088.73065185547
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	149747.5576171875,
+			"energy_mem_joules":	104358.953125
+		},
+		"energy_node_joules":	403947.14581298828
+	}
+}}
+{"timestamp":"2026-07-17 12:20:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784271008278608,
+		"socket_0":	{
+			"energy_cpu_joules":	23771.205627441406,
+			"energy_mem_joules":	155036.42272949219
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	165210.62091064453,
+			"energy_mem_joules":	115254.40832519531
+		},
+		"energy_node_joules":	459272.65759277344
+	}
+}}
+{"timestamp":"2026-07-17 12:25:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784271308289795,
+		"socket_0":	{
+			"energy_cpu_joules":	39806.6683959961,
+			"energy_mem_joules":	167935.31207275391
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	180635.92272949219,
+			"energy_mem_joules":	126181.49114990234
+		},
+		"energy_node_joules":	514559.39434814453
+	}
+}}
+{"timestamp":"2026-07-17 12:30:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784271608273022,
+		"socket_0":	{
+			"energy_cpu_joules":	55826.152038574219,
+			"energy_mem_joules":	180869.744934082
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	196085.84722900391,
+			"energy_mem_joules":	137103.59954833984
+		},
+		"energy_node_joules":	569885.34375
+	}
+}}
+{"timestamp":"2026-07-17 12:35:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784271908262378,
+		"socket_0":	{
+			"energy_cpu_joules":	71834.8381958008,
+			"energy_mem_joules":	193796.23431396484
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	211538.96612548828,
+			"energy_mem_joules":	147984.260925293
+		},
+		"energy_node_joules":	625154.299560547
+	}
+}}
+{"timestamp":"2026-07-17 12:40:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784272208261385,
+		"socket_0":	{
+			"energy_cpu_joules":	87885.0606689453,
+			"energy_mem_joules":	206746.96636962891
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	227022.94311523438,
+			"energy_mem_joules":	158896.71478271484
+		},
+		"energy_node_joules":	680551.68493652344
+	}
+}}
+{"timestamp":"2026-07-17 12:45:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784272508337215,
+		"socket_0":	{
+			"energy_cpu_joules":	103970.2607421875,
+			"energy_mem_joules":	219650.40032958984
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	242596.62841796875,
+			"energy_mem_joules":	169794.17749023438
+		},
+		"energy_node_joules":	736011.46697998047
+	}
+}}
+{"timestamp":"2026-07-17 12:50:02", "data":{
+	"gpu45":	{
+		"timestamp":	1.7842728083645e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	119981.20532226562,
+			"energy_mem_joules":	232483.34503173828
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	258115.20300292969,
+			"energy_mem_joules":	180743.33587646484
+		},
+		"energy_node_joules":	791323.08923339844
+	}
+}}
+{"timestamp":"2026-07-17 12:55:02", "data":{
+	"gpu45":	{
+		"timestamp":	1.78427310839984e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	135987.20788574219,
+			"energy_mem_joules":	245298.21343994141
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	11459.569580078125,
+			"energy_mem_joules":	191664.46722412109
+		},
+		"energy_node_joules":	584409.45812988281
+	}
+}}
+{"timestamp":"2026-07-17 13:00:02", "data":{
+	"gpu45":	{
+		"timestamp":	1784273408377445,
+		"socket_0":	{
+			"energy_cpu_joules":	151974.61981201172,
+			"energy_mem_joules":	258162.90252685547
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	26946.35791015625,
+			"energy_mem_joules":	202561.37908935547
+		},
+		"energy_node_joules":	639645.259338379
+	}
+}}
+{"timestamp":"2026-07-17 13:05:02", "data":{
+	"gpu45":	{
+		"timestamp":	1784273708372454,
+		"socket_0":	{
+			"energy_cpu_joules":	167975.55291748047,
+			"energy_mem_joules":	8876.58874511719
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	42408.581176757812,
+			"energy_mem_joules":	213423.97021484375
+		},
+		"energy_node_joules":	432684.69305419922
+	}
+}}
+{"timestamp":"2026-07-17 13:10:02", "data":{
+	"gpu45":	{
+		"timestamp":	1784274008384951,
+		"socket_0":	{
+			"energy_cpu_joules":	183963.522277832,
+			"energy_mem_joules":	21786.725341796875
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	57934.675842285156,
+			"energy_mem_joules":	224398.00640869141
+		},
+		"energy_node_joules":	488082.92987060547
+	}
+}}
+{"timestamp":"2026-07-17 13:15:02", "data":{
+	"gpu45":	{
+		"timestamp":	1784274308438782,
+		"socket_0":	{
+			"energy_cpu_joules":	199987.00958251953,
+			"energy_mem_joules":	34662.652465820312
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	73453.3333129883,
+			"energy_mem_joules":	235393.444519043
+		},
+		"energy_node_joules":	543496.439880371
+	}
+}}
+{"timestamp":"2026-07-17 13:20:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784274607508016,
+		"socket_0":	{
+			"energy_cpu_joules":	215956.01599121094,
+			"energy_mem_joules":	47508.468383789062
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	88889.6717529297,
+			"energy_mem_joules":	246301.51300048828
+		},
+		"energy_node_joules":	598655.669128418
+	}
+}}
+{"timestamp":"2026-07-17 13:25:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784274907553335,
+		"socket_0":	{
+			"energy_cpu_joules":	231982.4111328125,
+			"energy_mem_joules":	60412.241943359375
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	104371.46350097656,
+			"energy_mem_joules":	257229.41790771484
+		},
+		"energy_node_joules":	653995.53448486328
+	}
+}}
+{"timestamp":"2026-07-17 13:30:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784275207633968,
+		"socket_0":	{
+			"energy_cpu_joules":	247985.51293945312,
+			"energy_mem_joules":	73326.832397460938
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	119857.62921142578,
+			"energy_mem_joules":	6018.99365234375
+		},
+		"energy_node_joules":	447188.96820068359
+	}
+}}
+{"timestamp":"2026-07-17 13:35:01", "data":{
+	"gpu45":	{
+		"timestamp":	1.78427550765895e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	1869.1258544921875,
+			"energy_mem_joules":	86225.933532714844
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	135367.78619384766,
+			"energy_mem_joules":	16894.727661132812
+		},
+		"energy_node_joules":	240357.5732421875
+	}
+}}
+{"timestamp":"2026-07-17 13:40:01", "data":{
+	"gpu45":	{
+		"timestamp":	1.78427580769379e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	17877.303771972656,
+			"energy_mem_joules":	99129.20361328125
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	150881.12994384766,
+			"energy_mem_joules":	27816.753112792969
+		},
+		"energy_node_joules":	295704.39044189453
+	}
+}}
+{"timestamp":"2026-07-17 13:45:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784276107720893,
+		"socket_0":	{
+			"energy_cpu_joules":	33846.949462890625,
+			"energy_mem_joules":	112040.46466064453
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	166422.73974609375,
+			"energy_mem_joules":	38766.180358886719
+		},
+		"energy_node_joules":	351076.33422851562
+	}
+}}
+{"timestamp":"2026-07-17 13:50:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784276407731332,
+		"socket_0":	{
+			"energy_cpu_joules":	49878.619506835938,
+			"energy_mem_joules":	124972.70593261719
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	181988.49633789062,
+			"energy_mem_joules":	49728.0308227539
+		},
+		"energy_node_joules":	406567.85260009766
+	}
+}}
+{"timestamp":"2026-07-17 13:55:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784276707729481,
+		"socket_0":	{
+			"energy_cpu_joules":	65887.5784301758,
+			"energy_mem_joules":	137822.14776611328
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	197515.96612548828,
+			"energy_mem_joules":	60741.9722290039
+		},
+		"energy_node_joules":	461967.66455078125
+	}
+}}
+{"timestamp":"2026-07-17 14:00:01", "data":{
+	"gpu45":	{
+		"timestamp":	1.78427700772614e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	81897.716796875,
+			"energy_mem_joules":	150674.39630126953
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	213014.42767333984,
+			"energy_mem_joules":	71664.5335083008
+		},
+		"energy_node_joules":	517251.07427978516
+	}
+}}
+{"timestamp":"2026-07-17 14:05:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784277307756915,
+		"socket_0":	{
+			"energy_cpu_joules":	97936.1432495117,
+			"energy_mem_joules":	163606.857421875
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	228554.59631347656,
+			"energy_mem_joules":	82578.66162109375
+		},
+		"energy_node_joules":	572676.258605957
+	}
+}}
+{"timestamp":"2026-07-17 14:10:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784277607763769,
+		"socket_0":	{
+			"energy_cpu_joules":	113962.47143554688,
+			"energy_mem_joules":	176546.0234375
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	244069.10601806641,
+			"energy_mem_joules":	93583.545532226562
+		},
+		"energy_node_joules":	628161.14642334
+	}
+}}
+{"timestamp":"2026-07-17 14:15:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784277907815829,
+		"socket_0":	{
+			"energy_cpu_joules":	129997.06781005859,
+			"energy_mem_joules":	189412.25964355469
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	259542.94500732422,
+			"energy_mem_joules":	104551.90130615234
+		},
+		"energy_node_joules":	683504.17376709
+	}
+}}
+{"timestamp":"2026-07-17 14:20:01", "data":{
+	"gpu45":	{
+		"timestamp":	1.78427820786169e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	146015.24279785156,
+			"energy_mem_joules":	202267.04223632812
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	12913.843322753906,
+			"energy_mem_joules":	115592.07336425781
+		},
+		"energy_node_joules":	476788.20172119141
+	}
+}}
+{"timestamp":"2026-07-17 14:25:01", "data":{
+	"gpu45":	{
+		"timestamp":	1.78427850791321e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	162052.37884521484,
+			"energy_mem_joules":	215142.60479736328
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	28452.890563964844,
+			"energy_mem_joules":	126608.50164794922
+		},
+		"energy_node_joules":	532256.37585449219
+	}
+}}
+{"timestamp":"2026-07-17 14:30:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784278807924107,
+		"socket_0":	{
+			"energy_cpu_joules":	178061.11511230469,
+			"energy_mem_joules":	227987.87231445312
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	43971.325073242188,
+			"energy_mem_joules":	137493.23156738281
+		},
+		"energy_node_joules":	587513.54406738281
+	}
+}}
+{"timestamp":"2026-07-17 14:35:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784279107974256,
+		"socket_0":	{
+			"energy_cpu_joules":	194094.73303222656,
+			"energy_mem_joules":	240861.24627685547
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	59476.040771484375,
+			"energy_mem_joules":	148469.24194335938
+		},
+		"energy_node_joules":	642901.26202392578
+	}
+}}
+{"timestamp":"2026-07-17 14:40:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784279407984839,
+		"socket_0":	{
+			"energy_cpu_joules":	210147.82220458984,
+			"energy_mem_joules":	253715.79370117188
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	74996.920959472656,
+			"energy_mem_joules":	159460.25775146484
+		},
+		"energy_node_joules":	698320.79461669922
+	}
+}}
+{"timestamp":"2026-07-17 14:45:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784279708060152,
+		"socket_0":	{
+			"energy_cpu_joules":	226187.27337646484,
+			"energy_mem_joules":	4532.74188232422
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	90545.0247192383,
+			"energy_mem_joules":	170444.80682373047
+		},
+		"energy_node_joules":	491709.84680175781
+	}
+}}
+{"timestamp":"2026-07-17 14:50:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784280008105637,
+		"socket_0":	{
+			"energy_cpu_joules":	242197.63104248047,
+			"energy_mem_joules":	17380.528442382812
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	106043.20733642578,
+			"energy_mem_joules":	181480.23376464844
+		},
+		"energy_node_joules":	547101.6005859375
+	}
+}}
+{"timestamp":"2026-07-17 14:55:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784280308183555,
+		"socket_0":	{
+			"energy_cpu_joules":	258254.11437988281,
+			"energy_mem_joules":	30211.463806152344
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	121505.18176269531,
+			"energy_mem_joules":	192507.44482421875
+		},
+		"energy_node_joules":	602478.20477294922
+	}
+}}
+{"timestamp":"2026-07-17 15:00:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784280608206777,
+		"socket_0":	{
+			"energy_cpu_joules":	12116.258361816406,
+			"energy_mem_joules":	43010.728271484375
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	137003.07061767578,
+			"energy_mem_joules":	203490.039855957
+		},
+		"energy_node_joules":	395620.09710693359
+	}
+}}
+{"timestamp":"2026-07-17 15:05:01", "data":{
+	"gpu45":	{
+		"timestamp":	1.78428090829911e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	28123.133972167969,
+			"energy_mem_joules":	55841.252075195312
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	152500.85034179688,
+			"energy_mem_joules":	214492.13323974609
+		},
+		"energy_node_joules":	450957.36962890625
+	}
+}}
+{"timestamp":"2026-07-17 15:10:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784281208276719,
+		"socket_0":	{
+			"energy_cpu_joules":	44107.34130859375,
+			"energy_mem_joules":	68806.4694213867
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	168004.60791015625,
+			"energy_mem_joules":	225537.59582519531
+		},
+		"energy_node_joules":	506456.014465332
+	}
+}}
+{"timestamp":"2026-07-17 15:15:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784281508302371,
+		"socket_0":	{
+			"energy_cpu_joules":	60099.051696777344,
+			"energy_mem_joules":	81689.740173339844
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	183539.51556396484,
+			"energy_mem_joules":	236626.90197753906
+		},
+		"energy_node_joules":	561955.209411621
+	}
+}}
+{"timestamp":"2026-07-17 15:20:02", "data":{
+	"gpu45":	{
+		"timestamp":	1.78428180836216e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	76114.0350341797,
+			"energy_mem_joules":	94584.1358642578
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	199078.7353515625,
+			"energy_mem_joules":	247726.97625732422
+		},
+		"energy_node_joules":	617503.88250732422
+	}
+}}
+{"timestamp":"2026-07-17 15:25:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784282107416892,
+		"socket_0":	{
+			"energy_cpu_joules":	92094.2655029297,
+			"energy_mem_joules":	107458.01965332031
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	214551.27667236328,
+			"energy_mem_joules":	258727.693359375
+		},
+		"energy_node_joules":	672831.25518798828
+	}
+}}
+{"timestamp":"2026-07-17 15:30:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784282407453422,
+		"socket_0":	{
+			"energy_cpu_joules":	108130.54974365234,
+			"energy_mem_joules":	120425.66162109375
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	230071.31439208984,
+			"energy_mem_joules":	7650.7479248046875
+		},
+		"energy_node_joules":	466278.27368164062
+	}
+}}
+{"timestamp":"2026-07-17 15:35:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784282707510276,
+		"socket_0":	{
+			"energy_cpu_joules":	124151.00115966797,
+			"energy_mem_joules":	133250.88671875
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	245563.18811035156,
+			"energy_mem_joules":	18728.978759765625
+		},
+		"energy_node_joules":	521694.05474853516
+	}
+}}
+{"timestamp":"2026-07-17 15:40:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784283007591294,
+		"socket_0":	{
+			"energy_cpu_joules":	140182.46948242188,
+			"energy_mem_joules":	146146.75347900391
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	261050.239074707,
+			"energy_mem_joules":	29727.589477539062
+		},
+		"energy_node_joules":	577107.051513672
+	}
+}}
+{"timestamp":"2026-07-17 15:45:01", "data":{
+	"gpu45":	{
+		"timestamp":	1.78428330765272e+15,
+		"socket_0":	{
+			"energy_cpu_joules":	156239.326965332,
+			"energy_mem_joules":	159054.98608398438
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	14422.915161132812,
+			"energy_mem_joules":	40837.787841796875
+		},
+		"energy_node_joules":	370555.01605224609
+	}
+}}
+{"timestamp":"2026-07-17 15:50:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784283607670031,
+		"socket_0":	{
+			"energy_cpu_joules":	172304.12274169922,
+			"energy_mem_joules":	171918.04559326172
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	29891.830200195312,
+			"energy_mem_joules":	51866.908935546875
+		},
+		"energy_node_joules":	425980.90747070312
+	}
+}}
+{"timestamp":"2026-07-17 15:55:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784283907766415,
+		"socket_0":	{
+			"energy_cpu_joules":	188326.40222167969,
+			"energy_mem_joules":	184798.50677490234
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	45365.532409667969,
+			"energy_mem_joules":	62999.108520507812
+		},
+		"energy_node_joules":	481489.54992675781
+	}
+}}
+{"timestamp":"2026-07-17 16:00:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784284207780709,
+		"socket_0":	{
+			"energy_cpu_joules":	204368.29034423828,
+			"energy_mem_joules":	197720.21087646484
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	60846.015930175781,
+			"energy_mem_joules":	74115.6082763672
+		},
+		"energy_node_joules":	537050.125427246
+	}
+}}
+{"timestamp":"2026-07-17 16:05:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784284507872496,
+		"socket_0":	{
+			"energy_cpu_joules":	220416.45294189453,
+			"energy_mem_joules":	210557.03338623047
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	76332.1768798828,
+			"energy_mem_joules":	85248.412841796875
+		},
+		"energy_node_joules":	592554.07604980469
+	}
+}}
+{"timestamp":"2026-07-17 16:10:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784284807888925,
+		"socket_0":	{
+			"energy_cpu_joules":	236469.14166259766,
+			"energy_mem_joules":	223341.05651855469
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	91822.556823730469,
+			"energy_mem_joules":	96341.6380004883
+		},
+		"energy_node_joules":	647974.393005371
+	}
+}}
+{"timestamp":"2026-07-17 16:15:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784285107965228,
+		"socket_0":	{
+			"energy_cpu_joules":	252493.49481201172,
+			"energy_mem_joules":	236178.72290039062
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	107321.19635009766,
+			"energy_mem_joules":	107501.39953613281
+		},
+		"energy_node_joules":	703494.81359863281
+	}
+}}
+{"timestamp":"2026-07-17 16:20:01", "data":{
+	"gpu45":	{
+		"timestamp":	1784285408049618,
+		"socket_0":	{
+			"energy_cpu_joules":	6365.8363647460938,
+			"energy_mem_joules":	249002.82299804688
+		},
+		"socket_1":	{
+			"energy_cpu_joules":	122809.3828125,
+			"energy_mem_joules":	118600.1240234375
+		},
+		"energy_node_joules":	496778.16619873047
+	}
+}}

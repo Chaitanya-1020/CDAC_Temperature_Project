@@ -1,0 +1,4071 @@
+{"timestamp":"2026-07-17 11:30:01", "data":{
+    "gpu45": {
+        "timestamp": 1784268004731430,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 26.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 33.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 11:35:01", "data":{
+    "gpu45": {
+        "timestamp": 1784268304762565,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 32.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 11:40:01", "data":{
+    "gpu45": {
+        "timestamp": 1784268604808962,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 27.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 34.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 11:45:01", "data":{
+    "gpu45": {
+        "timestamp": 1784268904795386,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 32.0,
+                    "temp_celsius_core_1": 32.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 11:50:01", "data":{
+    "gpu45": {
+        "timestamp": 1784269204817112,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 25.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 30.0,
+                    "temp_celsius_core_3": 32.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 11:55:01", "data":{
+    "gpu45": {
+        "timestamp": 1784269504853481,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 29.0,
+                    "temp_celsius_core_2": 30.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 33.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 12:00:01", "data":{
+    "gpu45": {
+        "timestamp": 1784269804889200,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 32.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 31.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 31.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 12:05:01", "data":{
+    "gpu45": {
+        "timestamp": 1784270104995915,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 29.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 32.0,
+                    "temp_celsius_core_3": 29.0,
+                    "temp_celsius_core_4": 33.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 29.0,
+                    "temp_celsius_core_21": 30.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 12:10:01", "data":{
+    "gpu45": {
+        "timestamp": 1784270405041404,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 27.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 33.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 31.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 12:15:01", "data":{
+    "gpu45": {
+        "timestamp": 1784270705049546,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 33.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 29.0,
+                    "temp_celsius_core_7": 27.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 12:20:01", "data":{
+    "gpu45": {
+        "timestamp": 1784271005099423,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 27.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 29.0,
+                    "temp_celsius_core_9": 31.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 32.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 12:25:01", "data":{
+    "gpu45": {
+        "timestamp": 1784271305105598,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 27.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 25.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 25.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 25.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 24.0,
+                    "temp_celsius_core_21": 24.0,
+                    "temp_celsius_core_22": 26.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 30.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 28.0,
+                    "temp_celsius_core_6": 29.0,
+                    "temp_celsius_core_7": 27.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 30.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 29.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 29.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 12:30:01", "data":{
+    "gpu45": {
+        "timestamp": 1784271605089580,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 25.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 24.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 29.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 31.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 12:35:01", "data":{
+    "gpu45": {
+        "timestamp": 1784271905097517,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 28.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 24.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 25.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 25.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 24.0,
+                    "temp_celsius_core_21": 24.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 29.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 12:40:01", "data":{
+    "gpu45": {
+        "timestamp": 1784272205088742,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 27.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 29.0,
+                    "temp_celsius_core_9": 31.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 12:45:01", "data":{
+    "gpu45": {
+        "timestamp": 1784272505128699,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 27.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 25.0,
+                    "temp_celsius_core_9": 25.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 25.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 25.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 30.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 29.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 29.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 29.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 12:50:02", "data":{
+    "gpu45": {
+        "timestamp": 1784272805194739,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 27.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 32.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 29.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 31.0,
+                    "temp_celsius_core_9": 29.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 12:55:02", "data":{
+    "gpu45": {
+        "timestamp": 1784273105220596,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 29.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 32.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 13:00:02", "data":{
+    "gpu45": {
+        "timestamp": 1784273405215363,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 31.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 30.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 13:05:02", "data":{
+    "gpu45": {
+        "timestamp": 1784273705202192,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 29.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 31.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 13:10:02", "data":{
+    "gpu45": {
+        "timestamp": 1784274005203363,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 24.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 27.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 31.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 29.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 29.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 13:15:02", "data":{
+    "gpu45": {
+        "timestamp": 1784274305229537,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 27.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 24.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 24.0,
+                    "temp_celsius_core_8": 25.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 25.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 25.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 25.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 24.0,
+                    "temp_celsius_core_21": 24.0,
+                    "temp_celsius_core_22": 26.0,
+                    "temp_celsius_core_23": 28.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 30.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 27.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 30.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 29.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 13:20:01", "data":{
+    "gpu45": {
+        "timestamp": 1784274604315983,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 29.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 13:25:01", "data":{
+    "gpu45": {
+        "timestamp": 1784274904361478,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 35,
+                "Core": {
+                    "temp_celsius_core_0": 35.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 29.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 13:30:01", "data":{
+    "gpu45": {
+        "timestamp": 1784275204454470,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 29.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 35,
+                "Core": {
+                    "temp_celsius_core_0": 35.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 13:35:01", "data":{
+    "gpu45": {
+        "timestamp": 1784275504489043,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 29.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 27.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 34.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 31.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 31.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 13:40:01", "data":{
+    "gpu45": {
+        "timestamp": 1784275804492572,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 28.0,
+                    "temp_celsius_core_1": 27.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 24.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 26.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 25.0,
+                    "temp_celsius_core_9": 25.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 25.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 28.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 29.0,
+                    "temp_celsius_core_7": 27.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 30.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 29.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 29.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 13:45:01", "data":{
+    "gpu45": {
+        "timestamp": 1784276104540065,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 33.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 27.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 29.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 13:50:01", "data":{
+    "gpu45": {
+        "timestamp": 1784276404549336,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 32.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 29.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 13:55:01", "data":{
+    "gpu45": {
+        "timestamp": 1784276704542889,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 27.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 24.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 30.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 29.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 31.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 29.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 14:00:01", "data":{
+    "gpu45": {
+        "timestamp": 1784277004546378,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 32.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 14:05:01", "data":{
+    "gpu45": {
+        "timestamp": 1784277304557535,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 32.0,
+                    "temp_celsius_core_1": 32.0,
+                    "temp_celsius_core_2": 32.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 29.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 14:10:01", "data":{
+    "gpu45": {
+        "timestamp": 1784277604579579,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 32.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 29.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 14:15:01", "data":{
+    "gpu45": {
+        "timestamp": 1784277904641373,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 32.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 14:20:01", "data":{
+    "gpu45": {
+        "timestamp": 1784278204669875,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 30.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 31.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 14:25:01", "data":{
+    "gpu45": {
+        "timestamp": 1784278504728563,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 27.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 31.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 30.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 14:30:01", "data":{
+    "gpu45": {
+        "timestamp": 1784278804741267,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 28.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 25.0,
+                    "temp_celsius_core_9": 25.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 25.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 24.0,
+                    "temp_celsius_core_21": 24.0,
+                    "temp_celsius_core_22": 26.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 32.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 31.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 14:35:01", "data":{
+    "gpu45": {
+        "timestamp": 1784279104795345,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 25.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 33.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 31.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 14:40:01", "data":{
+    "gpu45": {
+        "timestamp": 1784279404801382,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 27.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 29.0,
+                    "temp_celsius_core_9": 32.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 32.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 14:45:01", "data":{
+    "gpu45": {
+        "timestamp": 1784279704884285,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 29.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 29.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 27.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 27.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 29.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 29.0,
+                    "temp_celsius_core_8": 31.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 28.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 14:50:01", "data":{
+    "gpu45": {
+        "timestamp": 1784280004923054,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 30.0,
+                    "temp_celsius_core_9": 29.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 14:55:01", "data":{
+    "gpu45": {
+        "timestamp": 1784280304988700,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 24.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 36,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 36.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 31.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 15:00:01", "data":{
+    "gpu45": {
+        "timestamp": 1784280605037893,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 29.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 27.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 29.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 31.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 30.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 15:05:01", "data":{
+    "gpu45": {
+        "timestamp": 1784280905117490,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 29.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 15:10:01", "data":{
+    "gpu45": {
+        "timestamp": 1784281205104374,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 27.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 25.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 26.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 29.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 30.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 29.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 15:15:01", "data":{
+    "gpu45": {
+        "timestamp": 1784281505111355,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 28.0,
+                    "temp_celsius_core_1": 27.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 35,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 30.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 35.0,
+                    "temp_celsius_core_7": 27.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 29.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 15:20:02", "data":{
+    "gpu45": {
+        "timestamp": 1784281805177105,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 29.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 27.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 29.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 29.0,
+                    "temp_celsius_core_8": 29.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 15:25:01", "data":{
+    "gpu45": {
+        "timestamp": 1784282104242346,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 25.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 32.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 27.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 29.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 15:30:01", "data":{
+    "gpu45": {
+        "timestamp": 1784282404265428,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 27.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 25.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 23.0,
+                    "temp_celsius_core_20": 24.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 35,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 35.0,
+                    "temp_celsius_core_7": 27.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 15:35:01", "data":{
+    "gpu45": {
+        "timestamp": 1784282704326342,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 27.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 24.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 25.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 25.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 24.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 32.0,
+                    "temp_celsius_core_6": 31.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 15:40:01", "data":{
+    "gpu45": {
+        "timestamp": 1784283004397455,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 29.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 29.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 27.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 32.0,
+                    "temp_celsius_core_1": 32.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 29.0,
+                    "temp_celsius_core_8": 29.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 31.0,
+                    "temp_celsius_core_15": 32.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 31.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 15:45:01", "data":{
+    "gpu45": {
+        "timestamp": 1784283304470301,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 27.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 25.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 24.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 29.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 15:50:01", "data":{
+    "gpu45": {
+        "timestamp": 1784283604483369,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 29.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 29.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 35,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 35.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 31.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 15:55:01", "data":{
+    "gpu45": {
+        "timestamp": 1784283904557925,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 28.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 27.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 26.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 30.0,
+                    "temp_celsius_core_8": 29.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 31.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 30.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 16:00:01", "data":{
+    "gpu45": {
+        "timestamp": 1784284204601979,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 27.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 32.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 32.0,
+                    "temp_celsius_core_6": 31.0,
+                    "temp_celsius_core_7": 29.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 16:05:01", "data":{
+    "gpu45": {
+        "timestamp": 1784284504678905,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 32,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 27.0,
+                    "temp_celsius_core_2": 28.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 26.0,
+                    "temp_celsius_core_6": 27.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 25.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 27.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 25.0,
+                    "temp_celsius_core_14": 25.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 27.0,
+                    "temp_celsius_core_19": 24.0,
+                    "temp_celsius_core_20": 24.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 26.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 35,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 27.0,
+                    "temp_celsius_core_4": 29.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 35.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 27.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 29.0,
+                    "temp_celsius_core_12": 29.0,
+                    "temp_celsius_core_13": 27.0,
+                    "temp_celsius_core_14": 29.0,
+                    "temp_celsius_core_15": 30.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 26.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 27.0,
+                    "temp_celsius_core_21": 28.0,
+                    "temp_celsius_core_22": 29.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 16:10:01", "data":{
+    "gpu45": {
+        "timestamp": 1784284804717697,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 25.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 26.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 32.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 29.0,
+                    "temp_celsius_core_6": 31.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 30.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 31.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 16:15:01", "data":{
+    "gpu45": {
+        "timestamp": 1784285104797815,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 29.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 25.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 28.0,
+                    "temp_celsius_core_7": 25.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 26.0,
+                    "temp_celsius_core_10": 28.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 26.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 26.0,
+                    "temp_celsius_core_15": 27.0,
+                    "temp_celsius_core_16": 26.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 27.0,
+                    "temp_celsius_core_23": 29.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 30.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 30.0,
+                    "temp_celsius_core_6": 30.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 32.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 30.0,
+                    "temp_celsius_core_19": 26.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 29.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
+{"timestamp":"2026-07-17 16:20:01", "data":{
+    "gpu45": {
+        "timestamp": 1784285404853415,
+        "socket_0": {
+            "CPU": {
+                "PKG_Actual": 33,
+                "Core": {
+                    "temp_celsius_core_0": 30.0,
+                    "temp_celsius_core_1": 28.0,
+                    "temp_celsius_core_2": 29.0,
+                    "temp_celsius_core_3": 26.0,
+                    "temp_celsius_core_4": 26.0,
+                    "temp_celsius_core_5": 27.0,
+                    "temp_celsius_core_6": 29.0,
+                    "temp_celsius_core_7": 26.0,
+                    "temp_celsius_core_8": 26.0,
+                    "temp_celsius_core_9": 27.0,
+                    "temp_celsius_core_10": 29.0,
+                    "temp_celsius_core_11": 28.0,
+                    "temp_celsius_core_12": 27.0,
+                    "temp_celsius_core_13": 26.0,
+                    "temp_celsius_core_14": 27.0,
+                    "temp_celsius_core_15": 28.0,
+                    "temp_celsius_core_16": 27.0,
+                    "temp_celsius_core_17": 27.0,
+                    "temp_celsius_core_18": 28.0,
+                    "temp_celsius_core_19": 25.0,
+                    "temp_celsius_core_20": 25.0,
+                    "temp_celsius_core_21": 25.0,
+                    "temp_celsius_core_22": 28.0,
+                    "temp_celsius_core_23": 30.0
+                }
+            },
+            "GPU": {}
+        },
+        "socket_1": {
+            "CPU": {
+                "PKG_Actual": 34,
+                "Core": {
+                    "temp_celsius_core_0": 31.0,
+                    "temp_celsius_core_1": 31.0,
+                    "temp_celsius_core_2": 31.0,
+                    "temp_celsius_core_3": 28.0,
+                    "temp_celsius_core_4": 30.0,
+                    "temp_celsius_core_5": 33.0,
+                    "temp_celsius_core_6": 31.0,
+                    "temp_celsius_core_7": 28.0,
+                    "temp_celsius_core_8": 28.0,
+                    "temp_celsius_core_9": 28.0,
+                    "temp_celsius_core_10": 30.0,
+                    "temp_celsius_core_11": 30.0,
+                    "temp_celsius_core_12": 30.0,
+                    "temp_celsius_core_13": 28.0,
+                    "temp_celsius_core_14": 30.0,
+                    "temp_celsius_core_15": 31.0,
+                    "temp_celsius_core_16": 30.0,
+                    "temp_celsius_core_17": 28.0,
+                    "temp_celsius_core_18": 31.0,
+                    "temp_celsius_core_19": 27.0,
+                    "temp_celsius_core_20": 28.0,
+                    "temp_celsius_core_21": 30.0,
+                    "temp_celsius_core_22": 30.0,
+                    "temp_celsius_core_23": 31.0
+                }
+            },
+            "GPU": {}
+        }
+    }
+}}
