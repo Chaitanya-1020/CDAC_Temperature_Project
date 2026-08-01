@@ -1,1003 +1,935 @@
-{"timestamp":"2026-07-17 11:30:01", "data":{
-    "gpu45": {
-        "timestamp": 1784268021515059,
-        "socket_0": {
-            "power_cpu_watts": 53.728327096821651,
-            "power_mem_watts": 43.691450779108472,
-            "power_gpu_watts": {}
-        },
-        "socket_1": {
-            "power_cpu_watts": 64.782787160352441,
-            "power_mem_watts": 37.873028143517594,
-            "power_gpu_watts": {}
-        },
-        "power_node_watts": 200.07559317980017,
-        "num_gpus_per_socket": 0
-    }
-}}
-{"timestamp":"2026-07-17 11:35:01", "data":{
-    "gpu45": {
-        "timestamp": 1784268321572183,
-        "socket_0": {
-            "power_cpu_watts": 53.796512975514595,
-            "power_mem_watts": 43.624401065028394,
-            "power_gpu_watts": {}
-        },
-        "socket_1": {
-            "power_cpu_watts": 64.855590341754336,
-            "power_mem_watts": 38.983528733581814,
-            "power_gpu_watts": {}
-        },
-        "power_node_watts": 201.26003311587914,
-        "num_gpus_per_socket": 0
-    }
-}}
-{"timestamp":"2026-07-17 11:40:01", "data":{
-    "gpu45": {
-        "timestamp": 1784268621539575,
-        "socket_0": {
-            "power_cpu_watts": 53.349633235027383,
-            "power_mem_watts": 42.583512885940621,
-            "power_gpu_watts": {}
-        },
-        "socket_1": {
-            "power_cpu_watts": 64.802853563720845,
-            "power_mem_watts": 38.955528212738429,
-            "power_gpu_watts": {}
-        },
-        "power_node_watts": 199.69152789742728,
-        "num_gpus_per_socket": 0
-    }
-}}
-{"timestamp":"2026-07-17 11:45:01", "data":{
-    "gpu45": {
-        "timestamp": 1784268921576127,
-        "socket_0": {
-            "power_cpu_watts": 53.420109938762295,
-            "power_mem_watts": 42.604969960314982,
-            "power_gpu_watts": {}
-        },
-        "socket_1": {
-            "power_cpu_watts": 64.768355515343202,
-            "power_mem_watts": 38.565921139155407,
-            "power_gpu_watts": {}
-        },
-        "power_node_watts": 199.35935655357588,
-        "num_gpus_per_socket": 0
-    }
-}}
 {"timestamp":"2026-07-17 11:50:01", "data":{
-    "gpu45": {
-        "timestamp": 1784269221604041,
+    "cn21": {
+        "timestamp": 1784269212849695,
         "socket_0": {
-            "power_cpu_watts": 53.684354974312789,
-            "power_mem_watts": 43.679644487392167,
+            "power_cpu_watts": 35.222922746781428,
+            "power_mem_watts": 29.52466068017041,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 65.037920894862467,
-            "power_mem_watts": 38.382264846142661,
+            "power_cpu_watts": 40.429921057905084,
+            "power_mem_watts": 49.577268510851248,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.78418520271009,
+        "power_node_watts": 154.75477299570815,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 11:55:01", "data":{
-    "gpu45": {
-        "timestamp": 1784269521659314,
+    "cn21": {
+        "timestamp": 1784269512806268,
         "socket_0": {
-            "power_cpu_watts": 53.489061166189487,
-            "power_mem_watts": 43.126631264022173,
+            "power_cpu_watts": 35.710468378705087,
+            "power_mem_watts": 30.072032263581445,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.847571200253284,
-            "power_mem_watts": 38.121586385955602,
+            "power_cpu_watts": 40.215160738594413,
+            "power_mem_watts": 49.702141209446189,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.58485001642055,
+        "power_node_watts": 155.69980259032712,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 12:00:01", "data":{
-    "gpu45": {
-        "timestamp": 1784269821735302,
+    "cn21": {
+        "timestamp": 1784269812735828,
         "socket_0": {
-            "power_cpu_watts": 53.141317464855362,
-            "power_mem_watts": 43.47172424331734,
+            "power_cpu_watts": 35.20412731868484,
+            "power_mem_watts": 28.836493296208619,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.711596636134317,
-            "power_mem_watts": 38.787535344712332,
+            "power_cpu_watts": 40.331436935594503,
+            "power_mem_watts": 49.976563117957248,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.11217368901936,
+        "power_node_watts": 154.34862066844522,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 12:05:01", "data":{
-    "gpu45": {
-        "timestamp": 1784270121794215,
+    "cn21": {
+        "timestamp": 1784270112658392,
         "socket_0": {
-            "power_cpu_watts": 53.639941286471021,
-            "power_mem_watts": 42.639278665382271,
+            "power_cpu_watts": 35.227503209300465,
+            "power_mem_watts": 28.611622484413868,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.541969344443942,
-            "power_mem_watts": 38.385899381462302,
+            "power_cpu_watts": 40.590159891540523,
+            "power_mem_watts": 50.448335317286052,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.20708867775954,
+        "power_node_watts": 154.87762090254091,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 12:10:01", "data":{
-    "gpu45": {
-        "timestamp": 1784270421834390,
+    "cn21": {
+        "timestamp": 1784270417484980,
         "socket_0": {
-            "power_cpu_watts": 53.401061440439939,
-            "power_mem_watts": 43.130463528096151,
+            "power_cpu_watts": 34.915422901977664,
+            "power_mem_watts": 28.201090311478058,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.656488723715981,
-            "power_mem_watts": 38.788448822200436,
+            "power_cpu_watts": 40.045445373108109,
+            "power_mem_watts": 49.75775636830484,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.97646251445252,
+        "power_node_watts": 152.91971495486865,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 12:15:01", "data":{
-    "gpu45": {
-        "timestamp": 1784270721863395,
+    "cn21": {
+        "timestamp": 1784270717296324,
         "socket_0": {
-            "power_cpu_watts": 53.529835150169433,
-            "power_mem_watts": 43.900523880101446,
+            "power_cpu_watts": 35.38636803299017,
+            "power_mem_watts": 29.479958141364484,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.733438755816735,
-            "power_mem_watts": 38.464342695443356,
+            "power_cpu_watts": 40.070539924974035,
+            "power_mem_watts": 50.558057219163409,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.62814048153098,
+        "power_node_watts": 155.49492331849211,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 12:20:01", "data":{
-    "gpu45": {
-        "timestamp": 1784271021865579,
+    "cn21": {
+        "timestamp": 1784271017142383,
         "socket_0": {
-            "power_cpu_watts": 53.654918022293863,
-            "power_mem_watts": 42.165717877632567,
+            "power_cpu_watts": 35.462628673893292,
+            "power_mem_watts": 30.306183734301918,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.565656810627885,
-            "power_mem_watts": 38.719878838230784,
+            "power_cpu_watts": 39.762494904965976,
+            "power_mem_watts": 50.253980120827443,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.10617154878508,
+        "power_node_watts": 155.78528743398863,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 12:25:01", "data":{
-    "gpu45": {
-        "timestamp": 1784271321835318,
+    "cn21": {
+        "timestamp": 1784271316920469,
         "socket_0": {
-            "power_cpu_watts": 53.377613186381119,
-            "power_mem_watts": 44.130846263643555,
+            "power_cpu_watts": 35.318015399856904,
+            "power_mem_watts": 28.779677357674984,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.603411074986766,
-            "power_mem_watts": 38.737824814345473,
+            "power_cpu_watts": 40.542727286121412,
+            "power_mem_watts": 49.813688722163626,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.84969533935691,
+        "power_node_watts": 154.45410876581693,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 12:30:01", "data":{
-    "gpu45": {
-        "timestamp": 1784271621843309,
+    "cn21": {
+        "timestamp": 1784271617748146,
         "socket_0": {
-            "power_cpu_watts": 53.539773280137261,
-            "power_mem_watts": 43.328615737471715,
+            "power_cpu_watts": 34.422836510520384,
+            "power_mem_watts": 28.179359748926469,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.749365623145749,
-            "power_mem_watts": 38.649379796439881,
+            "power_cpu_watts": 39.375893723783115,
+            "power_mem_watts": 49.908335128947975,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.26713443719461,
+        "power_node_watts": 151.88642511217796,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 12:35:01", "data":{
-    "gpu45": {
-        "timestamp": 1784271921850507,
+    "cn21": {
+        "timestamp": 1784271917535198,
         "socket_0": {
-            "power_cpu_watts": 53.380950791060343,
-            "power_mem_watts": 43.885354036137826,
+            "power_cpu_watts": 35.009165301449407,
+            "power_mem_watts": 29.079270213102809,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.645360164056655,
-            "power_mem_watts": 38.470966882494729,
+            "power_cpu_watts": 39.84163273875258,
+            "power_mem_watts": 50.273168730137755,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.38263187374957,
+        "power_node_watts": 154.20323698344254,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 12:40:01", "data":{
-    "gpu45": {
-        "timestamp": 1784272221854469,
+    "cn21": {
+        "timestamp": 1784272217303836,
         "socket_0": {
-            "power_cpu_watts": 53.82533320568286,
-            "power_mem_watts": 41.83994311957381,
+            "power_cpu_watts": 35.267106289706739,
+            "power_mem_watts": 29.727264412907438,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.737139692237946,
-            "power_mem_watts": 38.931529256594011,
+            "power_cpu_watts": 39.336739572665479,
+            "power_mem_watts": 49.682971470988662,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.33394527408865,
+        "power_node_watts": 154.01408174626832,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 12:45:01", "data":{
-    "gpu45": {
-        "timestamp": 1784272521950562,
+    "cn21": {
+        "timestamp": 1784272517072791,
         "socket_0": {
-            "power_cpu_watts": 53.563764629225851,
-            "power_mem_watts": 43.477926856012694,
+            "power_cpu_watts": 34.994535045976789,
+            "power_mem_watts": 29.282380514056907,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.988913397861438,
-            "power_mem_watts": 38.199566898932552,
+            "power_cpu_watts": 39.231810811178974,
+            "power_mem_watts": 50.06971220888439,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.23017178203253,
+        "power_node_watts": 153.57843858009707,
         "num_gpus_per_socket": 0
     }
 }}
-{"timestamp":"2026-07-17 12:50:02", "data":{
-    "gpu45": {
-        "timestamp": 1784272821949507,
+{"timestamp":"2026-07-17 12:50:01", "data":{
+    "cn21": {
+        "timestamp": 1784272816817827,
         "socket_0": {
-            "power_cpu_watts": 53.221929530406442,
-            "power_mem_watts": 42.08207612224269,
+            "power_cpu_watts": 34.846201669061351,
+            "power_mem_watts": 28.339748556139014,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.718249490547905,
-            "power_mem_watts": 38.896657405503326,
+            "power_cpu_watts": 39.096432705744817,
+            "power_mem_watts": 49.533493281419688,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 198.91891254870035,
+        "power_node_watts": 151.81587621236488,
         "num_gpus_per_socket": 0
     }
 }}
-{"timestamp":"2026-07-17 12:55:02", "data":{
-    "gpu45": {
-        "timestamp": 1784273121972369,
+{"timestamp":"2026-07-17 12:55:01", "data":{
+    "cn21": {
+        "timestamp": 1784273117564340,
         "socket_0": {
-            "power_cpu_watts": 53.560098413475075,
-            "power_mem_watts": 42.781436634077401,
+            "power_cpu_watts": 34.868111098325798,
+            "power_mem_watts": 29.042405354324423,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.877230345709918,
-            "power_mem_watts": 38.757693384432827,
+            "power_cpu_watts": 39.113966252367703,
+            "power_mem_watts": 49.581266246897165,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.9764587776952,
+        "power_node_watts": 152.6057489519151,
         "num_gpus_per_socket": 0
     }
 }}
-{"timestamp":"2026-07-17 13:00:02", "data":{
-    "gpu45": {
-        "timestamp": 1784273421953189,
+{"timestamp":"2026-07-17 13:00:01", "data":{
+    "cn21": {
+        "timestamp": 1784273417326400,
         "socket_0": {
-            "power_cpu_watts": 53.419425538516379,
-            "power_mem_watts": 42.067351201033183,
+            "power_cpu_watts": 34.967443803024466,
+            "power_mem_watts": 29.807237041908454,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.693838846865134,
-            "power_mem_watts": 39.053775250288567,
+            "power_cpu_watts": 39.709579577205417,
+            "power_mem_watts": 49.912407849776443,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.23439083670326,
+        "power_node_watts": 154.39666827191479,
         "num_gpus_per_socket": 0
     }
 }}
-{"timestamp":"2026-07-17 13:05:02", "data":{
-    "gpu45": {
-        "timestamp": 1784273721958258,
+{"timestamp":"2026-07-17 13:05:01", "data":{
+    "cn21": {
+        "timestamp": 1784273717104786,
         "socket_0": {
-            "power_cpu_watts": 53.289245476506515,
-            "power_mem_watts": 43.611311248778748,
+            "power_cpu_watts": 35.443328942388703,
+            "power_mem_watts": 30.097091656153321,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.770625354141359,
-            "power_mem_watts": 38.707996089327018,
+            "power_cpu_watts": 39.508729360174577,
+            "power_mem_watts": 50.623944423498038,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.37917816875364,
+        "power_node_watts": 155.67309438221463,
         "num_gpus_per_socket": 0
     }
 }}
-{"timestamp":"2026-07-17 13:10:02", "data":{
-    "gpu45": {
-        "timestamp": 1784274021967618,
+{"timestamp":"2026-07-17 13:10:01", "data":{
+    "cn21": {
+        "timestamp": 1784274016934488,
         "socket_0": {
-            "power_cpu_watts": 53.77073502519923,
-            "power_mem_watts": 43.12942505597637,
+            "power_cpu_watts": 35.271948174001203,
+            "power_mem_watts": 29.703400790305377,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.804435327210371,
-            "power_mem_watts": 38.485867842813605,
+            "power_cpu_watts": 39.655818344073573,
+            "power_mem_watts": 50.348238467646667,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.19046325119956,
+        "power_node_watts": 154.97940577602679,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 13:15:02", "data":{
-    "gpu45": {
-        "timestamp": 1784274322048452,
+    "cn21": {
+        "timestamp": 1784274317790862,
         "socket_0": {
-            "power_cpu_watts": 53.444495694842772,
-            "power_mem_watts": 43.417616408378848,
+            "power_cpu_watts": 34.679841236495236,
+            "power_mem_watts": 28.844266893364253,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.71595324226692,
-            "power_mem_watts": 38.964448615345496,
+            "power_cpu_watts": 39.356236731799228,
+            "power_mem_watts": 50.265612869744146,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.54251396083404,
+        "power_node_watts": 153.14595773140286,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 13:20:01", "data":{
-    "gpu45": {
-        "timestamp": 1784274621093763,
+    "cn21": {
+        "timestamp": 1784274617625438,
         "socket_0": {
-            "power_cpu_watts": 53.600424485846816,
-            "power_mem_watts": 43.726011917685831,
+            "power_cpu_watts": 35.138802552460895,
+            "power_mem_watts": 29.445844196745089,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.717899501738543,
-            "power_mem_watts": 38.357872395859793,
+            "power_cpu_watts": 39.92950284460867,
+            "power_mem_watts": 50.332088619214019,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.402208301131,
+        "power_node_watts": 154.8462382130287,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 13:25:01", "data":{
-    "gpu45": {
-        "timestamp": 1784274921193420,
+    "cn21": {
+        "timestamp": 1784274917452568,
         "socket_0": {
-            "power_cpu_watts": 53.627487027237919,
-            "power_mem_watts": 41.55224272220017,
+            "power_cpu_watts": 36.210712080232561,
+            "power_mem_watts": 29.562422552593819,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.750164385297978,
-            "power_mem_watts": 38.928424220409845,
+            "power_cpu_watts": 41.567679117826003,
+            "power_mem_watts": 51.165410543714181,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 198.85831835514591,
+        "power_node_watts": 158.50622429436658,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 13:30:01", "data":{
-    "gpu45": {
-        "timestamp": 1784275221237637,
+    "cn21": {
+        "timestamp": 1784275217276608,
         "socket_0": {
-            "power_cpu_watts": 53.397348619640155,
-            "power_mem_watts": 42.916756278641515,
+            "power_cpu_watts": 35.034209890170864,
+            "power_mem_watts": 29.906187235296688,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.811735818779354,
-            "power_mem_watts": 39.077529432307855,
+            "power_cpu_watts": 39.477076073321911,
+            "power_mem_watts": 50.208546955047737,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.20337014936888,
+        "power_node_watts": 154.6260201538372,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 13:35:01", "data":{
-    "gpu45": {
-        "timestamp": 1784275521242145,
+    "cn21": {
+        "timestamp": 1784275517090832,
         "socket_0": {
-            "power_cpu_watts": 53.536165448996705,
-            "power_mem_watts": 41.966613704998359,
+            "power_cpu_watts": 35.104950406324924,
+            "power_mem_watts": 30.333904645083205,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.636147548654847,
-            "power_mem_watts": 39.195667215260293,
+            "power_cpu_watts": 39.981749712625323,
+            "power_mem_watts": 49.609379535585113,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.33459391791018,
+        "power_node_watts": 155.02998429961855,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 13:40:01", "data":{
-    "gpu45": {
-        "timestamp": 1784275821286117,
+    "cn21": {
+        "timestamp": 1784275816899934,
         "socket_0": {
-            "power_cpu_watts": 53.316875697640981,
-            "power_mem_watts": 43.661627049371312,
+            "power_cpu_watts": 35.266465072765229,
+            "power_mem_watts": 30.174223010531637,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.807908421107626,
-            "power_mem_watts": 39.082983795722569,
+            "power_cpu_watts": 40.156592436847426,
+            "power_mem_watts": 49.517887827190997,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.8693949638425,
+        "power_node_watts": 155.11516834733527,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 13:45:01", "data":{
-    "gpu45": {
-        "timestamp": 1784276121288253,
+    "cn21": {
+        "timestamp": 1784276117757482,
         "socket_0": {
-            "power_cpu_watts": 53.525432675389574,
-            "power_mem_watts": 43.849410513041583,
+            "power_cpu_watts": 35.185554448827624,
+            "power_mem_watts": 29.78751168191728,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.976965738411351,
-            "power_mem_watts": 39.00538127779911,
+            "power_cpu_watts": 39.588251053775679,
+            "power_mem_watts": 50.678071546999732,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 201.35719020464163,
+        "power_node_watts": 155.23938873152031,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 13:50:01", "data":{
-    "gpu45": {
-        "timestamp": 1784276421292578,
+    "cn21": {
+        "timestamp": 1784276417581254,
         "socket_0": {
-            "power_cpu_watts": 53.462872649162676,
-            "power_mem_watts": 43.487610221820432,
+            "power_cpu_watts": 35.113420259132695,
+            "power_mem_watts": 29.83387648578536,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.825558624944975,
-            "power_mem_watts": 39.055858237710638,
+            "power_cpu_watts": 39.51655987285492,
+            "power_mem_watts": 50.6471186554082,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.83189973363872,
+        "power_node_watts": 155.11097527318117,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 13:55:01", "data":{
-    "gpu45": {
-        "timestamp": 1784276721302524,
+    "cn21": {
+        "timestamp": 1784276717428767,
         "socket_0": {
-            "power_cpu_watts": 53.477860332327616,
-            "power_mem_watts": 43.39858192931279,
+            "power_cpu_watts": 35.021950885106087,
+            "power_mem_watts": 28.647552947467567,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.943702775757998,
-            "power_mem_watts": 38.282186161410365,
+            "power_cpu_watts": 39.508537112037956,
+            "power_mem_watts": 50.355277806598963,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.10233119880877,
+        "power_node_watts": 153.53331875121057,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 14:00:01", "data":{
-    "gpu45": {
-        "timestamp": 1784277021296249,
+    "cn21": {
+        "timestamp": 1784277017264568,
         "socket_0": {
-            "power_cpu_watts": 53.384424991570285,
-            "power_mem_watts": 44.261780549485565,
+            "power_cpu_watts": 34.930390171540012,
+            "power_mem_watts": 28.560001097493043,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.902184394053762,
-            "power_mem_watts": 38.506760128311257,
+            "power_cpu_watts": 39.697779419641591,
+            "power_mem_watts": 50.272689024374898,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 201.05515006342085,
+        "power_node_watts": 153.46085971304956,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 14:05:01", "data":{
-    "gpu45": {
-        "timestamp": 1784277321339577,
+    "cn21": {
+        "timestamp": 1784277317129947,
         "socket_0": {
-            "power_cpu_watts": 53.378911475895627,
-            "power_mem_watts": 43.877361064376792,
+            "power_cpu_watts": 35.045414471859402,
+            "power_mem_watts": 29.842363799066355,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.813634995419079,
-            "power_mem_watts": 38.717454797744814,
+            "power_cpu_watts": 39.38587904285869,
+            "power_mem_watts": 49.934032730376508,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.78736233343631,
+        "power_node_watts": 154.20769004416096,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 14:10:01", "data":{
-    "gpu45": {
-        "timestamp": 1784277621388252,
+    "cn21": {
+        "timestamp": 1784277616952481,
         "socket_0": {
-            "power_cpu_watts": 53.541054521016562,
-            "power_mem_watts": 43.483888756225788,
+            "power_cpu_watts": 35.22681861359721,
+            "power_mem_watts": 29.521036258686383,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.611941442859688,
-            "power_mem_watts": 38.144837953444132,
+            "power_cpu_watts": 40.133028129400529,
+            "power_mem_watts": 50.267427215136877,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.78172267354617,
+        "power_node_watts": 155.14831021682102,
         "num_gpus_per_socket": 0
     }
 }}
-{"timestamp":"2026-07-17 14:15:01", "data":{
-    "gpu45": {
-        "timestamp": 1784277921422478,
+{"timestamp":"2026-07-17 14:15:02", "data":{
+    "cn21": {
+        "timestamp": 1784277917807858,
         "socket_0": {
-            "power_cpu_watts": 53.332678477629415,
-            "power_mem_watts": 43.739606992121047,
+            "power_cpu_watts": 35.33588580829727,
+            "power_mem_watts": 30.291206593660387,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.586945037681843,
-            "power_mem_watts": 38.673533743126093,
+            "power_cpu_watts": 39.843709730982425,
+            "power_mem_watts": 50.010113474498212,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.3327642505584,
+        "power_node_watts": 155.48091560743831,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 14:20:01", "data":{
-    "gpu45": {
-        "timestamp": 1784278221467400,
+    "cn21": {
+        "timestamp": 1784278217603010,
         "socket_0": {
-            "power_cpu_watts": 53.56987883444566,
-            "power_mem_watts": 43.427627486800603,
+            "power_cpu_watts": 34.870595491013638,
+            "power_mem_watts": 29.345988871174718,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.807585399322278,
-            "power_mem_watts": 38.991797922077723,
+            "power_cpu_watts": 39.286249918250704,
+            "power_mem_watts": 50.022188752151031,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.79688964264625,
+        "power_node_watts": 153.52502303259007,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 14:25:01", "data":{
-    "gpu45": {
-        "timestamp": 1784278521479002,
+    "cn21": {
+        "timestamp": 1784278517377394,
         "socket_0": {
-            "power_cpu_watts": 53.635424648024227,
-            "power_mem_watts": 43.106925550438909,
+            "power_cpu_watts": 34.70258134814933,
+            "power_mem_watts": 28.148962524062654,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.847584999234769,
-            "power_mem_watts": 38.699594382734617,
+            "power_cpu_watts": 39.559409795452851,
+            "power_mem_watts": 50.128557839047879,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.28952958043251,
+        "power_node_watts": 152.5395115067127,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 14:30:01", "data":{
-    "gpu45": {
-        "timestamp": 1784278821517393,
+    "cn21": {
+        "timestamp": 1784278817170646,
         "socket_0": {
-            "power_cpu_watts": 53.614166917491069,
-            "power_mem_watts": 43.612514784131655,
+            "power_cpu_watts": 35.090608093721293,
+            "power_mem_watts": 29.666208791696093,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.927940318385751,
-            "power_mem_watts": 38.700512996563674,
+            "power_cpu_watts": 39.151974349265636,
+            "power_mem_watts": 49.886163834784639,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.85513501657215,
+        "power_node_watts": 153.79495506946765,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 14:35:01", "data":{
-    "gpu45": {
-        "timestamp": 1784279121571298,
+    "cn21": {
+        "timestamp": 1784279116950226,
         "socket_0": {
-            "power_cpu_watts": 53.598521004141929,
-            "power_mem_watts": 42.660228348443468,
+            "power_cpu_watts": 35.402074236427531,
+            "power_mem_watts": 29.47316333964573,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.696234757278376,
-            "power_mem_watts": 38.923666591736179,
+            "power_cpu_watts": 39.537028180085173,
+            "power_mem_watts": 49.881061219014036,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.87865070159995,
+        "power_node_watts": 154.29332697517248,
         "num_gpus_per_socket": 0
     }
 }}
-{"timestamp":"2026-07-17 14:40:01", "data":{
-    "gpu45": {
-        "timestamp": 1784279421620395,
+{"timestamp":"2026-07-17 14:40:02", "data":{
+    "cn21": {
+        "timestamp": 1784279417733916,
         "socket_0": {
-            "power_cpu_watts": 53.677080996955873,
-            "power_mem_watts": 43.524866063723529,
+            "power_cpu_watts": 35.302365147647571,
+            "power_mem_watts": 29.624708059836315,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 65.054719691208547,
-            "power_mem_watts": 38.459978886185546,
+            "power_cpu_watts": 39.407129516181243,
+            "power_mem_watts": 49.866299324856513,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.71664563807349,
+        "power_node_watts": 154.20050204852163,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 14:45:01", "data":{
-    "gpu45": {
-        "timestamp": 1784279721681634,
+    "cn21": {
+        "timestamp": 1784279717509269,
         "socket_0": {
-            "power_cpu_watts": 53.516977812361695,
-            "power_mem_watts": 43.353780602677126,
+            "power_cpu_watts": 34.978278856347643,
+            "power_mem_watts": 28.895391594847812,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.857878621219726,
-            "power_mem_watts": 38.37413069803123,
+            "power_cpu_watts": 39.444992179374545,
+            "power_mem_watts": 49.956340548588749,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.10276773428978,
+        "power_node_watts": 153.27500317915874,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 14:50:01", "data":{
-    "gpu45": {
-        "timestamp": 1784280021724221,
+    "cn21": {
+        "timestamp": 1784280017323649,
         "socket_0": {
-            "power_cpu_watts": 53.671824257474263,
-            "power_mem_watts": 43.334366889325274,
+            "power_cpu_watts": 34.822225135926033,
+            "power_mem_watts": 28.092336759212913,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.851967467514811,
-            "power_mem_watts": 38.490806469564653,
+            "power_cpu_watts": 39.479674609391104,
+            "power_mem_watts": 49.02518171810334,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.34896508387902,
+        "power_node_watts": 151.4194182226334,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 14:55:01", "data":{
-    "gpu45": {
-        "timestamp": 1784280321784486,
+    "cn21": {
+        "timestamp": 1784280317130997,
         "socket_0": {
-            "power_cpu_watts": 53.790776482189251,
-            "power_mem_watts": 42.781147545867157,
+            "power_cpu_watts": 35.260095111061482,
+            "power_mem_watts": 28.876799579279151,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.747106658870493,
-            "power_mem_watts": 38.210370670236266,
+            "power_cpu_watts": 39.616600918835246,
+            "power_mem_watts": 50.60071605525696,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.52940135716315,
+        "power_node_watts": 154.35421166443282,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 15:00:01", "data":{
-    "gpu45": {
-        "timestamp": 1784280621853170,
+    "cn21": {
+        "timestamp": 1784280616955033,
         "socket_0": {
-            "power_cpu_watts": 53.486197797739244,
-            "power_mem_watts": 42.814803067358369,
+            "power_cpu_watts": 34.985792541801793,
+            "power_mem_watts": 28.962750837620227,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.875371365855628,
-            "power_mem_watts": 39.076352520862585,
+            "power_cpu_watts": 39.763400284676145,
+            "power_mem_watts": 49.858600225189541,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.25272475181583,
+        "power_node_watts": 153.57054388928771,
         "num_gpus_per_socket": 0
     }
 }}
-{"timestamp":"2026-07-17 15:05:01", "data":{
-    "gpu45": {
-        "timestamp": 1784280921858552,
+{"timestamp":"2026-07-17 15:05:02", "data":{
+    "cn21": {
+        "timestamp": 1784280917809536,
         "socket_0": {
-            "power_cpu_watts": 53.533596687575297,
-            "power_mem_watts": 42.804635688317475,
+            "power_cpu_watts": 35.128857604763837,
+            "power_mem_watts": 29.307832785258576,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.915128278414102,
-            "power_mem_watts": 38.539462155456938,
+            "power_cpu_watts": 39.638488598251236,
+            "power_mem_watts": 49.922117279220522,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.79282280976381,
+        "power_node_watts": 153.99729626749416,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 15:10:01", "data":{
-    "gpu45": {
-        "timestamp": 1784281221868580,
+    "cn21": {
+        "timestamp": 1784281217625927,
         "socket_0": {
-            "power_cpu_watts": 53.588129195025495,
-            "power_mem_watts": 42.932997274834783,
+            "power_cpu_watts": 35.037482898055643,
+            "power_mem_watts": 29.063691984697783,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.879942838329981,
-            "power_mem_watts": 38.781486810801738,
+            "power_cpu_watts": 40.137455570590774,
+            "power_mem_watts": 49.559898047195652,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.18255611899201,
+        "power_node_watts": 153.79852850053987,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 15:15:01", "data":{
-    "gpu45": {
-        "timestamp": 1784281521921602,
+    "cn21": {
+        "timestamp": 1784281517451282,
         "socket_0": {
-            "power_cpu_watts": 53.39357020290128,
-            "power_mem_watts": 43.928585031789751,
+            "power_cpu_watts": 34.764254724752348,
+            "power_mem_watts": 27.917845057808243,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.904412763003663,
-            "power_mem_watts": 38.553144962110565,
+            "power_cpu_watts": 39.404776870086494,
+            "power_mem_watts": 49.052403968057362,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.77971295980524,
+        "power_node_watts": 151.13928062070445,
         "num_gpus_per_socket": 0
     }
 }}
-{"timestamp":"2026-07-17 15:20:02", "data":{
-    "gpu45": {
-        "timestamp": 1784281821997318,
+{"timestamp":"2026-07-17 15:20:01", "data":{
+    "cn21": {
+        "timestamp": 1784281817278268,
         "socket_0": {
-            "power_cpu_watts": 53.561495522081309,
-            "power_mem_watts": 42.220414648385258,
+            "power_cpu_watts": 34.750011530364446,
+            "power_mem_watts": 28.962462779358525,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.941489586997179,
-            "power_mem_watts": 38.797291499216279,
+            "power_cpu_watts": 39.498684026012633,
+            "power_mem_watts": 50.143030954428482,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.52069125668004,
+        "power_node_watts": 153.3541892901641,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 15:25:01", "data":{
-    "gpu45": {
-        "timestamp": 1784282121007426,
+    "cn21": {
+        "timestamp": 1784282117069787,
         "socket_0": {
-            "power_cpu_watts": 53.745919836559381,
-            "power_mem_watts": 43.666056593588962,
+            "power_cpu_watts": 34.569116000953187,
+            "power_mem_watts": 28.370349263352576,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.927823589234137,
-            "power_mem_watts": 39.065115629203788,
+            "power_cpu_watts": 39.235509357213104,
+            "power_mem_watts": 49.591970487898962,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 201.40491564858627,
+        "power_node_watts": 151.76694510941783,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 15:30:01", "data":{
-    "gpu45": {
-        "timestamp": 1784282421066372,
+    "cn21": {
+        "timestamp": 1784282416873422,
         "socket_0": {
-            "power_cpu_watts": 53.426744045845055,
-            "power_mem_watts": 43.111515499000362,
+            "power_cpu_watts": 35.041520741278141,
+            "power_mem_watts": 28.964072027189225,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.823926991962082,
-            "power_mem_watts": 39.079580516562004,
+            "power_cpu_watts": 39.489805304400299,
+            "power_mem_watts": 49.246689176566811,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.44176705336952,
+        "power_node_watts": 152.74208724943446,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 15:35:01", "data":{
-    "gpu45": {
-        "timestamp": 1784282721140336,
+    "cn21": {
+        "timestamp": 1784282717701444,
         "socket_0": {
-            "power_cpu_watts": 53.62303924351616,
-            "power_mem_watts": 43.580362608605924,
+            "power_cpu_watts": 35.011000348436923,
+            "power_mem_watts": 28.87735762757384,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.770450399498088,
-            "power_mem_watts": 39.302186017511161,
+            "power_cpu_watts": 39.577360457092247,
+            "power_mem_watts": 49.95217855785959,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 201.27603826913133,
+        "power_node_watts": 153.41789699096262,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 15:40:01", "data":{
-    "gpu45": {
-        "timestamp": 1784283021207366,
+    "cn21": {
+        "timestamp": 1784283017569776,
         "socket_0": {
-            "power_cpu_watts": 53.611168160332319,
-            "power_mem_watts": 41.658308729069731,
+            "power_cpu_watts": 34.794361056238237,
+            "power_mem_watts": 28.909959762362636,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.581257111118688,
-            "power_mem_watts": 39.499648546270429,
+            "power_cpu_watts": 39.125813196414981,
+            "power_mem_watts": 49.308951895683776,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.35038254679117,
+        "power_node_watts": 152.13908591069963,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 15:45:01", "data":{
-    "gpu45": {
-        "timestamp": 1784283321239599,
+    "cn21": {
+        "timestamp": 1784283317414015,
         "socket_0": {
-            "power_cpu_watts": 53.67068880088042,
-            "power_mem_watts": 43.27225407923504,
+            "power_cpu_watts": 34.775867367550852,
+            "power_mem_watts": 28.990734538199455,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.697668787384458,
-            "power_mem_watts": 39.351536918472846,
+            "power_cpu_watts": 39.465147974999915,
+            "power_mem_watts": 50.042081493155223,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.99214858597276,
+        "power_node_watts": 153.27383137390547,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 15:50:01", "data":{
-    "gpu45": {
-        "timestamp": 1784283621307475,
+    "cn21": {
+        "timestamp": 1784283617255643,
         "socket_0": {
-            "power_cpu_watts": 54.03941623836387,
-            "power_mem_watts": 42.587082662496726,
+            "power_cpu_watts": 34.821070939984139,
+            "power_mem_watts": 28.760831159471568,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.884284607548807,
-            "power_mem_watts": 38.654349108836058,
+            "power_cpu_watts": 39.346003646035264,
+            "power_mem_watts": 49.465701534188085,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.16513261724546,
+        "power_node_watts": 152.39360727967906,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 15:55:01", "data":{
-    "gpu45": {
-        "timestamp": 1784283921354792,
+    "cn21": {
+        "timestamp": 1784283917055593,
         "socket_0": {
-            "power_cpu_watts": 53.821509927330162,
-            "power_mem_watts": 43.115613389578805,
+            "power_cpu_watts": 35.363991518832187,
+            "power_mem_watts": 29.784086938084517,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.633302554226063,
-            "power_mem_watts": 39.215255256407993,
+            "power_cpu_watts": 39.413430027359759,
+            "power_mem_watts": 49.793041500354022,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.785681127543,
+        "power_node_watts": 154.35454998463047,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 16:00:01", "data":{
-    "gpu45": {
-        "timestamp": 1784284221402990,
+    "cn21": {
+        "timestamp": 1784284216846904,
         "socket_0": {
-            "power_cpu_watts": 53.528761646932701,
-            "power_mem_watts": 43.825401776784133,
+            "power_cpu_watts": 35.116656830894925,
+            "power_mem_watts": 29.308100143499093,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.667582314913716,
-            "power_mem_watts": 39.320942815620221,
+            "power_cpu_watts": 39.247688098712388,
+            "power_mem_watts": 49.542804366785688,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 201.34268855425077,
+        "power_node_watts": 153.21524943989209,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 16:05:01", "data":{
-    "gpu45": {
-        "timestamp": 1784284521471094,
+    "cn21": {
+        "timestamp": 1784284517627620,
         "socket_0": {
-            "power_cpu_watts": 53.76950177312915,
-            "power_mem_watts": 42.743469096184228,
+            "power_cpu_watts": 34.543475299578965,
+            "power_mem_watts": 28.206294213707906,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.834614081970983,
-            "power_mem_watts": 39.516530084392755,
+            "power_cpu_watts": 39.233282158555262,
+            "power_mem_watts": 49.540170343633051,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 200.86411503567712,
+        "power_node_watts": 151.5232220154752,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 16:10:01", "data":{
-    "gpu45": {
-        "timestamp": 1784284821514972,
+    "cn21": {
+        "timestamp": 1784284817381629,
         "socket_0": {
-            "power_cpu_watts": 53.576963258910915,
-            "power_mem_watts": 42.328911170854049,
+            "power_cpu_watts": 35.121382094171516,
+            "power_mem_watts": 29.817272933904821,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.698729940323176,
-            "power_mem_watts": 39.210181859530948,
+            "power_cpu_watts": 39.228715431795798,
+            "power_mem_watts": 50.289423260778157,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 199.81478622961907,
+        "power_node_watts": 154.4567937206503,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 16:15:01", "data":{
-    "gpu45": {
-        "timestamp": 1784285121581572,
+    "cn21": {
+        "timestamp": 1784285117135510,
         "socket_0": {
-            "power_cpu_watts": 53.35731143629355,
-            "power_mem_watts": 43.553514446993418,
+            "power_cpu_watts": 35.376775315104496,
+            "power_mem_watts": 29.387253876808501,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.77645938172931,
-            "power_mem_watts": 39.485113398300541,
+            "power_cpu_watts": 39.616442757233266,
+            "power_mem_watts": 49.827608629954888,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 201.17239866331681,
+        "power_node_watts": 154.20808057910114,
         "num_gpus_per_socket": 0
     }
 }}
 {"timestamp":"2026-07-17 16:20:01", "data":{
-    "gpu45": {
-        "timestamp": 1784285421678664,
+    "cn21": {
+        "timestamp": 1784285416909659,
         "socket_0": {
-            "power_cpu_watts": 53.389944915824671,
-            "power_mem_watts": 43.445413932467076,
+            "power_cpu_watts": 35.185178640174641,
+            "power_mem_watts": 29.613718601214519,
             "power_gpu_watts": {}
         },
         "socket_1": {
-            "power_cpu_watts": 64.796518961723493,
-            "power_mem_watts": 39.796069885975797,
+            "power_cpu_watts": 39.949451531446954,
+            "power_mem_watts": 49.567742231246875,
             "power_gpu_watts": {}
         },
-        "power_node_watts": 201.42794769599104,
+        "power_node_watts": 154.31609100408298,
         "num_gpus_per_socket": 0
     }
 }}

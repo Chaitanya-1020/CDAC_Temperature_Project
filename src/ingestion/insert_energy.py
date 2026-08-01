@@ -51,9 +51,21 @@ def read_json_objects(file_path):
 
             if braces == 0 and buffer.strip():
 
-                yield json.loads(buffer)
+                try:
+                    obj = json.loads(buffer)
 
-                buffer = ""
+    # Skip records with empty data
+                    if not obj.get("data"):
+                        buffer = ""
+                        continue
+
+                    yield obj
+
+                except json.JSONDecodeError:
+                    print("Skipping invalid JSON record...")
+                    buffer = "" 
+
+            
 
 
 # ------------------------------------------------------------------
